@@ -1,0 +1,104 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to Fullstack Development",
+      "body": "Explore how frontend and backend technologies work together to build complete web applications."
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with HTML and CSS",
+      "body": "Learn the structure of web pages and the styling techniques that make them clear and responsive."
+    },
+    {
+      "id": 3,
+      "title": "JavaScript Essentials for Web Developers",
+      "body": "Practice variables, functions, objects, and asynchronous JavaScript through useful examples."
+    },
+    {
+      "id": 4,
+      "title": "Understanding RESTful APIs",
+      "body": "Discover how HTTP methods, endpoints, and JSON data connect client applications to servers."
+    },
+    {
+      "id": 5,
+      "title": "Top Frameworks for Fullstack Development",
+      "body": "Compare popular tools for building reliable user interfaces and server-side applications."
+    },
+    {
+      "id": 6,
+      "title": "Databases Demystified for Web Developers",
+      "body": "Understand how applications store, query, and update information in a database."
+    },
+    {
+      "id": 7,
+      "title": "React Components and Props",
+      "body": "Build reusable interface pieces and pass data between components with props."
+    },
+    {
+      "id": 8,
+      "title": "Managing State in React",
+      "body": "Learn how component state keeps interactive interfaces in sync with user actions."
+    },
+    {
+      "id": 9,
+      "title": "Fetching Data with the Fetch API",
+      "body": "Send network requests from a React effect and display loading, success, and error states."
+    },
+    {
+      "id": 10,
+      "title": "An Introduction to TanStack Query",
+      "body": "Use queries to fetch, cache, and synchronize server data in React applications."
+    },
+    {
+      "id": 11,
+      "title": "Caching Server Data Effectively",
+      "body": "Explore cache freshness, background updates, and request deduplication for better experiences."
+    },
+    {
+      "id": 12,
+      "title": "Handling Loading and Error States",
+      "body": "Give users clear feedback while requests are running or when a network operation fails."
+    },
+    {
+      "id": 13,
+      "title": "Building Accessible Navigation",
+      "body": "Create route links that are understandable to keyboard users and assistive technologies."
+    },
+    {
+      "id": 14,
+      "title": "Responsive Layouts with Modern CSS",
+      "body": "Arrange content for different screen sizes using flexible grids and sensible constraints."
+    },
+    {
+      "id": 15,
+      "title": "Working with JSON Data",
+      "body": "Read and write structured JSON data for simple APIs, configuration, and application state."
+    },
+    {
+      "id": 16,
+      "title": "Creating a Local REST API",
+      "body": "Use a lightweight local server to make realistic API requests during frontend development."
+    },
+    {
+      "id": 17,
+      "title": "Pagination for Growing Collections",
+      "body": "Break large result sets into manageable pages and keep navigation predictable."
+    },
+    {
+      "id": 18,
+      "title": "Testing React User Interfaces",
+      "body": "Check important user flows and make sure components respond correctly to changing data."
+    },
+    {
+      "id": 19,
+      "title": "Debugging Network Requests",
+      "body": "Inspect request URLs, response statuses, and browser network tools to diagnose API issues."
+    },
+    {
+      "id": 20,
+      "title": "Preparing a React App for Production",
+      "body": "Build and verify an optimized application bundle before sharing it with users."
+    }
+  ]
+}
